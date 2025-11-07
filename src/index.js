@@ -15,12 +15,13 @@ root.render(
       <ColorModeScript initialColorMode={theme.config.initialColorMode} />
       
       {/* Wrap App inside BrowserRouter with basename */}
-      <BrowserRouter basename="/YOGITHA_PORTFOLIO">
+      <BrowserRouter basename="/MYOGITHAREDDY_PORTFOLIO">
         <App />
       </BrowserRouter>
       
     </ChakraProvider>
   </React.StrictMode>
 );
+
 
 reportWebVitals();
