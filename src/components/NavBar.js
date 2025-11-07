@@ -132,7 +132,7 @@ const TbLetterComponents = [...initials].map(l =>
                 <Button variant="ghost" onClick={scrollToContact}>
                   Contact
                 </Button>
-                <Button  as={Link}  href="https://drive.google.com/file/d/1p6UOLZtcjbsFqdJghO3d-F8-mZEisoNL/view?usp=sharing" target="_blank" variant="outline" colorScheme="blue">
+                <Button  as={Link}  href="https://drive.google.com/file/d/1n0DN_lnNqKjYyqr-mUIbY-WcDpP4b7h0/view?usp=sharing" target="_blank" variant="outline" colorScheme="blue">
                   View Resume
                   </Button>
               </>
