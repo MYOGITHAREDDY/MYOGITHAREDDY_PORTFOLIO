@@ -74,7 +74,7 @@ export default function Experience({ color }) {
                         />
                         <Box px={2} align="left">
                           <Text fontWeight={600}>Cognizant</Text>
-                          <Text>Programmer Analyst Trainee| Dec'23 - Apr'24</Text>
+                          <Text>Programmer Analyst Trainee| Mar'23 - Apr'24</Text>
                         </Box>
                       </HStack>
                     </Reveal>
